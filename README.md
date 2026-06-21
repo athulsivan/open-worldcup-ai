@@ -1,0 +1,1 @@
+# open-worldcup-ai
